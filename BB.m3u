@@ -1,0 +1,32 @@
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",BBB Camera 1
+https://server11.net/bbb/tracks-v1a1/mono.m3u8?remote=187.10.151.110&token=e4c47cd38b0c120d8e5732025744b2b224734c3d-656034db49a7a8c96d5095e1867dc179-1710356431-1710352831
+
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",BBB Camera 2
+https://server11.net/bbb/tracks-v1a1/mono.m3u8?remote=187.10.151.110&token=7efa90ddd3e30fe99f4f06000666e63ca0cb48d2-0329b4b077fe47055681fffb56c5a652-1710356372-1710352772
+
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",BBB Mosaico
+https://server11.net/bbbMosaico/tracks-v1a1/mono.m3u8?remote=187.10.151.110&token=9eee9df8cc201ea145de4e3109946e6fd59a10dd-506a8172227c7115948e27c327b0379c-1710355581-1710351981
+
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",BBB Quarto Magia
+https://server11.net/bbbMagia/tracks-v1a1/mono.m3u8?remote=187.10.151.110&token=cf1495cb80eecf99f2c717135a0ac2a0f6ed2e90-9a0855dc7537c606e60d43ca0da97c40-1710355609-1710352009
+
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",BBB Quarto Fada
+https://server11.net/bbbFada/tracks-v1a1/mono.m3u8?remote=187.10.151.110&token=81961ad8d11d0899769da1bedc5ac20a86515939-3f61289672c4535086a7cb9d7f5313ed-1710355641-1710352041
+
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",BBB Banheiro
+https://server11.net/bbbBanheiro/tracks-v1a1/mono.m3u8?remote=187.10.151.110&token=8883d77a019057bf922690818ac6616d2660d3d1-e1fe0ed20101e3db0e5945de52b76a3a-1710355705-1710352105
+
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",BBB Cozinha
+https://server11.net/bbbCozinha/tracks-v1a1/mono.m3u8?remote=187.10.151.110&token=51642b9edea61f065d592d2b7b4ee21ecfdbae77-1fd43f6f1f238ab4fb4b6a5dc8362f45-1710355729-1710352129
+
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",BBB Quarto Gnomo
+https://server11.net/bbbGnomo/tracks-v1a1/mono.m3u8?remote=187.10.151.110&token=f2862817fc47f2939e78cb6f1317e6d18bbd2894-aee6a72f2e8cd011cd292d612731bfbc-1710355759-1710352159
+
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",BBB Academia
+https://server11.net/bbbAcademia/tracks-v1a1/mono.m3u8?remote=187.10.151.110&token=0e16c551952433daeef6e0f2edf01a6e35ce3cd2-b2fc56bb906b178752946951264132cc-1710355778-1710352178
+
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",BBB Lider
+https://server11.net/bbbLider/tracks-v1a1/mono.m3u8?remote=187.10.151.110&token=6d3533761329c06c85f8e78307d29028734eecbe-4ec0ad2c4c78e7e46d51579c2b7f4ae1-1710355805-1710352205
+
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",BBB Sala
+https://server11.net/bbbSala/tracks-v1a1/mono.m3u8?remote=187.10.151.110&token=df46a22950c3de94b1d2b06d97a2c4b5af6b8ca4-6e95d2096e092f6f9aac916def884004-1710355823-1710352223
